@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 540 540" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Medic-Emblem" serif:id="Medic Emblem" transform="matrix(0.758896,0,0,0.768533,65.0981,61.6862)">
+        <g id="Emblem.Circle" transform="matrix(1.63954,0,0,1.61898,-172.676,-166.071)">
+            <g transform="matrix(1.44079,0,0,1.44079,-214.665,-88.8227)">
+                <circle cx="336.388" cy="249.046" r="150.612" style="fill:rgb(243,145,87);"/>
+            </g>
+            <g transform="matrix(2.48837,0,0,2.48837,-435.928,-344.507)">
+                <path d="M283.691,164.981C328.931,164.981 365.661,201.71 365.661,246.951C365.661,292.192 328.931,328.922 283.691,328.922C238.45,328.922 201.72,292.192 201.72,246.951C201.72,201.71 238.45,164.981 283.691,164.981ZM283.691,169.34C326.525,169.34 361.301,204.117 361.301,246.951C361.301,289.786 326.525,324.562 283.691,324.562C240.856,324.562 206.08,289.786 206.08,246.951C206.08,204.117 240.856,169.34 283.691,169.34Z" style="fill:rgb(184,56,59);"/>
+            </g>
+        </g>
+        <g transform="matrix(2.45238,-2.42163,2.45238,2.42163,-1153.73,290.094)">
+            <path d="M322.442,216.556L363.996,258.11L336.682,285.424L363.996,312.737L322.442,354.291L295.128,326.977L267.815,354.291L226.261,312.737L253.575,285.424L226.261,258.11L267.815,216.556L295.128,243.87L322.442,216.556Z" style="fill:rgb(184,56,59);"/>
+        </g>
+    </g>
+</svg>
